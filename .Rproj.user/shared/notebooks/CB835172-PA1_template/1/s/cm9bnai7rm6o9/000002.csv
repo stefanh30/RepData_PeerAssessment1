@@ -1,0 +1,5 @@
+"0","mean(aggregate(steps~date,dfcompleted,sum)$steps)"
+"1","[1]"
+"1"," 9503.869"
+"1","
+"

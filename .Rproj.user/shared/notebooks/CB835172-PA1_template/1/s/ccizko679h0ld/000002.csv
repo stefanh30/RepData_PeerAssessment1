@@ -1,0 +1,2 @@
+"0","df<-read.csv(unzip('activity.zip'))"
+"0","df$date<- as.Date(df$date)"

@@ -1,0 +1,1 @@
+"0","hist(aggregate(steps~date,dfcompleted,sum)$steps,main='Histogram daily Steps with NA values fixed',xlab='Total steps per day',ylab='Frequency of days')"

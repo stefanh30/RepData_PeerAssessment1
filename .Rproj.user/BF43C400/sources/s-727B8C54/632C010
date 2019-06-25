@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561383283378.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "950027845",
+    "id" : "632C010",
+    "lastKnownWriteTime" : 1561462264,
+    "last_content_update" : 1561462264271,
+    "path" : "~/Documents/GitHub/RepData_PeerAssessment1/PA1_template.Rmd",
+    "project_path" : "PA1_template.Rmd",
+    "properties" : {
+        "cursorPosition" : "74,0",
+        "scrollLine" : "90"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

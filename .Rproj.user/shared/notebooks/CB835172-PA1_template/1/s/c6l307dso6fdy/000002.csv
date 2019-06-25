@@ -1,0 +1,4 @@
+"0","intervalmedian<-aggregate(steps~interval,df,median) #calculate medians to fill in"
+"0","dfmissing<-df[is.na(df$steps),2:3] #copy NA values"
+"0","dfmissing <- (merge(intervalmedian, dfmissing, by = 'interval')) #complete with medians per interval"
+"0","dfcompleted<-rbind(dfmissing,df[!is.na(df$steps),]) #combine into completed table"

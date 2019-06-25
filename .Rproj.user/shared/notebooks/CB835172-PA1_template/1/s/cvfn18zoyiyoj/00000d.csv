@@ -1,0 +1,2 @@
+"0","daily<-aggregate(steps~date,df, sum)"
+"0","hist(daily$steps,main='Histogram daily Steps',xlab='Total steps per day',ylab='Frequency of days')"

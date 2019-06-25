@@ -1,0 +1,4 @@
+"0","dfcompleted$weekpart<-weekdays(dfcompleted$date,abbr=T)"
+"0","dfcompleted$weekpart[dfcompleted$weekpart %in% c(""Sat"", ""Sun"")]<-""weekend"""
+"0","dfcompleted$weekpart[dfcompleted$weekpart !=""weekend""]<-""weekday"""
+"0","dfcompleted$weekpart<-as.factor(dfcompleted$weekpart)"

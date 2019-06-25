@@ -1,0 +1,2 @@
+"0","interv<-aggregate(steps~interval,df,mean)"
+"0","plot(interv,type=""l"")"
